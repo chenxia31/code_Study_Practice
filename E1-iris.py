@@ -10,7 +10,7 @@ import seaborn as sns
 
 data = datasets.load_iris()
 
-#%%
+# %%
 # 打印数据集现实
 for k in data:
     print("#########\n##%s##\n#######\n" % k)

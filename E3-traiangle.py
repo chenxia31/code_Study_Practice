@@ -17,4 +17,4 @@ if len(triangle)>=1:
             else:
                 temp.append(min(triangle[story][i] + DP[story - 1][i - 1], triangle[story][i] + DP[story - 1][i]))
         DP.append(temp)
-print(min(DP[-1]))
+min(DP[-1])
