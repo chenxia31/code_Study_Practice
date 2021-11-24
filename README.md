@@ -10,3 +10,5 @@
 * E2是relplot实现
 * E3是力扣上三角形和问题的解决dynamic program
 * E4是接雨水问题的dynamic program
+
+# 新增了LaTexTrain文件夹。和out文件夹用于整理latex生成的目录

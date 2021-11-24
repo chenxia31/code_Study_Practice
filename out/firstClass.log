@@ -1,0 +1,273 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.11.24)  24 NOV 2021 22:42
+entering extended mode
+**./firstClass.tex
+(firstClass.tex
+LaTeX2e <2021-11-15>
+L3 programming layer <2021-11-22> (ctexart.cls)
+
+firstClass.tex:8: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \author(c
+             henxia)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 8--10
+[]
+ []
+
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backe
+nd-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count183
+\l__pdf_internal_box=\box50
+)
+(/Users/chenxia/Library/Mobile Documents/com~apple~CloudDocs/recordCodeWork/out
+/firstClass.aux)
+\openout1 = `firstClass.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+
+firstClass.tex:12: LaTeX Error: The font size command \normalsize is not define
+d:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \begin{document}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+firstClass.tex:14: Undefined control sequence.
+l.14     \maketitle
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+firstClass.tex:16: LaTeX Error: Environment quotation undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16     \begin{quotation}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+firstClass.tex:17: LaTeX Error: Unicode character 有 (U+6709)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17         有
+                朋自远方来，不亦乐
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+firstClass.tex:17: LaTeX Error: Unicode character 朋 (U+670B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17         有朋
+                   自远方来，不亦乐
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+firstClass.tex:17: LaTeX Error: Unicode character 自 (U+81EA)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17         有朋自
+                      远方来，不亦乐
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+firstClass.tex:17: LaTeX Error: Unicode character 远 (U+8FDC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17         有朋自远
+                         方来，不亦乐
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+firstClass.tex:17: LaTeX Error: Unicode character 方 (U+65B9)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17         有朋自远方
+                            来，不亦乐
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+firstClass.tex:17: LaTeX Error: Unicode character 来 (U+6765)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17         有朋自远方来
+                               ，不亦乐
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+firstClass.tex:17: LaTeX Error: Unicode character ， (U+FF0C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17         有朋自远方来，
+                                  不亦乐
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+firstClass.tex:17: LaTeX Error: Unicode character 不 (U+4E0D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17         有朋自远方来，不
+                                     亦乐
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+firstClass.tex:17: LaTeX Error: Unicode character 亦 (U+4EA6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17         有朋自远方来，不亦
+                                        乐
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+firstClass.tex:17: LaTeX Error: Unicode character 乐 (U+4E50)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17         有朋自远方来，不亦乐
+                                           
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+firstClass.tex:18: LaTeX Error: \begin{document} ended by \end{quotation}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18         \end{quotation}
+                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+firstClass.tex:19: LaTeX Error: The font size command \normalsize is not define
+d:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/Users/chenxia/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/
+pdftex.map}]
+(/Users/chenxia/Library/Mobile Documents/com~apple~CloudDocs/recordCodeWork/out
+/firstClass.aux) ) 
+Here is how much of TeX's memory you used:
+ 227 strings out of 478682
+ 6407 string characters out of 2843666
+ 300089 words of memory out of 3000000
+ 18418 multiletter control sequences out of 15000+600000
+ 403430 words of font info for 27 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 28i,5n,34p,141b,76s stack positions out of 5000i,500n,10000p,200000b,80000s
+</Library/Application Support/MiKTeX/texmfs/install/fonts/typ
+e1/public/amsfonts/cm/cmr10.pfb>
+Output written on "/Users/chenxia/Library/Mobile Documents/com~apple~CloudDocs/
+recordCodeWork/out/firstClass.pdf" (1 page, 13644 bytes).
+PDF statistics:
+ 11 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
