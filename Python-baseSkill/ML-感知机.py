@@ -18,7 +18,7 @@ import pandas as pd
 # sns.scatterplot(X[:, 0], X[:, 1],hue=label[:,0])
 # plt.show()
 
-data = pd.read_csv('./data.csv', header=None)
+data = pd.read_csv('../Algorithm-chapter/data.csv', header=None)
 # 样本输入，维度（100，2）
 X = data.iloc[:, :2].values
 # 样本输出，维度（100，）

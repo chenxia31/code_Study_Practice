@@ -1,14 +1,13 @@
-# Train-of-introduction-to-algorithm-
-2021summer，自己关于《算法导论》中相关习题的代码实现和力扣上其他题目的例子，主要利用python实现
+# code Study Practice
+主要针对自己在代码学习中一些基础的、知识性的、非完整项目的代码作为一个整合
+作为一个基础的code记录文件夹，目前主要包括
 
+## 目录
 
-# 之前写的相关习题的上传(2021.08.07)
-* C2.1关于insertion sort的实现
-* C2.1关于merge sort的实现
-* C4.1 最大子序列和的divide-and-conquer实现
-* E1是iris数据集的查看
-* E2是relplot实现
-* E3是力扣上三角形和问题的解决dynamic program
-* E4是接雨水问题的dynamic program
+* Algorithm-chapter，主要为《算法导论》中部分习题代码
+* LatexTrain和out为学习latex排班中的文件夹
+* Python-baseSkill为学习python基础编程，包括官方基础库、pands+numpy等基本操作
 
-# 新增了LaTexTrain文件夹。和out文件夹用于整理latex生成的目录
+## 更新记录
+
+2021-12-14更改文件夹的设置
