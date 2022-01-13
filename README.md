@@ -7,6 +7,7 @@
 * Algorithm-chapter，主要为《算法导论》中部分习题代码
 * LatexTrain和out为学习latex排班中的文件夹
 * Python-baseSkill为学习python基础编程，包括官方基础库、pands+numpy等基本操作
+* CS229_2018autumn为吴恩达课程学习资料，相关笔记在个人博客tjdata.site
 
 ## 更新记录
 
