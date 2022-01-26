@@ -1,0 +1,15 @@
+.\output\bsp_colorful.o: Source\BSP\bsp_colorful.c
+.\output\bsp_colorful.o: Source\BSP\bsp_colorful.h
+.\output\bsp_colorful.o: .\CMSIS\stm32f10x.h
+.\output\bsp_colorful.o: .\CMSIS\core_cm3.h
+.\output\bsp_colorful.o: D:\MDK\ARM\ARMCC\bin\..\include\stdint.h
+.\output\bsp_colorful.o: .\CMSIS\system_stm32f10x.h
+.\output\bsp_colorful.o: .\Source\APP\stm32f10x_conf.h
+.\output\bsp_colorful.o: .\FWlib\inc\stm32f10x_dma.h
+.\output\bsp_colorful.o: .\CMSIS\stm32f10x.h
+.\output\bsp_colorful.o: .\FWlib\inc\stm32f10x_gpio.h
+.\output\bsp_colorful.o: .\FWlib\inc\stm32f10x_i2c.h
+.\output\bsp_colorful.o: .\FWlib\inc\stm32f10x_rcc.h
+.\output\bsp_colorful.o: .\FWlib\inc\stm32f10x_tim.h
+.\output\bsp_colorful.o: .\FWlib\inc\stm32f10x_usart.h
+.\output\bsp_colorful.o: .\FWlib\inc\misc.h
